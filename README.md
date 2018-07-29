@@ -8,10 +8,12 @@ each other by paths. You have knowledge of only the rooms which you have visited
 of the room becomes red. Your goal is to guess where the monster is and shoot it. If you guess wrong and miss, or if you walk into the 
 same room as the monster, he hears you and instantly devours you. If you guess correctly and shoot it, you win!
 
-<h2>Controls:</h2> 
-  W: up 
-  A: left
-  S: down
-  D: right
-  F: arm yourself
-  F + {W, A, S, D}: shoot in a particular direction
+<h2>Controls:</h2>
+<ul>
+  <li>W: up</li>
+  <li>A: left</li>
+  <li>S: down</li>
+  <li>D: right</li>
+  <li>F: arm</li>
+  <li>F + {W, A, S, D}: shoot in a particular direction</li>
+</ul>
